@@ -1,4 +1,4 @@
-# n8n-automation-practice
+# n8n-projects
 
 This repository brings together workflows developed with [n8n](https://n8n.io) as part of a continuous exploration of automation using LLMs, APIs, and low-code tools. The projects reflect a focus on hands-on learning, system integration, and task orchestration.
 
