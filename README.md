@@ -42,7 +42,3 @@ This collection includes both independently built workflows and others created b
 ## Purpose
 
 This repository serves as both a personal learning log and a practical demonstration of how to use n8n to build real-world, AI-powered automation workflows with modular design and external API integrations.
-
-## Observação
-
-Este repositório está documentado em inglês por padrão. Caso prefira uma versão em português, estou disponível para fornecer ou explicar o conteúdo conforme necessário.
